@@ -34,7 +34,6 @@ We may update our Privacy Policy from time to time to reflect changes in our pra
 
 7. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
-
-Email: hello@dezdok.com
+  Email: hello@dezdok.com
 
 Company: Dezdok
